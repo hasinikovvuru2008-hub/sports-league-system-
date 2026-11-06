@@ -1,0 +1,12 @@
+
+{
+  "name": "sports-league-system",
+  "version": "1.0.0",
+  "description": "Sports League Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  }
+}
+
